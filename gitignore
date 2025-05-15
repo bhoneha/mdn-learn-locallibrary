@@ -1,0 +1,34 @@
+# Node modules (dependencies)
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Build output
+dist/
+build/
+
+# Coverage (if using tests)
+coverage/
+
+# npm package-lock
+package-lock.json
